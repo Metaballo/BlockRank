@@ -1,4 +1,4 @@
-# An Open Source PageRank Implementation
+#BlockRank - ranking bitcoin block data
 
 This project provides an open source BlockRank implementation. The
 implementation is a straightforward application of the algorithm
