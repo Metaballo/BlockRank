@@ -1,6 +1,6 @@
 # An Open Source PageRank Implementation
 
-This project provides an open source PageRank implementation. The
+This project provides an open source BlockRank implementation. The
 implementation is a straightforward application of the algorithm
 description given in the American Mathematical Society's Feature
 Column [How Google Finds Your Needle in the Web's
